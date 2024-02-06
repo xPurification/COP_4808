@@ -10,7 +10,7 @@ Time spent: 3 hours spent in total
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://github.com/xPurification/COP_4808/tree/main/barista-app/Lab3_Barista.gif)
+![Video Walkthrough](Lab3_Barista.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
